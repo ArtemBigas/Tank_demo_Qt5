@@ -2,6 +2,6 @@
 Tank+target+shot, maked in Qt5
 
 Control
-Up,down,Right and Left - Tank moves
-Key P - Pause
-Key ESC - Exit
+Up,down,Right and Left - Tank moves,
+Key P - Pause,
+Key ESC - Exit.
